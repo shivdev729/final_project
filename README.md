@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/191074da-09de-47aa-a5a0-c5f589b72215)# Cryptolocker
+# Cryptolocker
 An AES based GUI application for file encryption and integrity verification
 
 ## Secure File Storage System with AES-256
@@ -64,6 +64,7 @@ A simple and secure local file storage application using **AES-256 encryption**,
 
 ```bash
 pip install -r requirements.txt
+```
 
 2. **Run the main script**
 
